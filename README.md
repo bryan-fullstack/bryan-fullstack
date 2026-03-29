@@ -1,8 +1,9 @@
 # Bryan Pereira
 
-<div style="display: flex; gap: 5px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Desenvolvedor_Full--Stack_Jr.-white?style=flat&color=383838" alt="Subtítulo" />
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 25px;">
+  <img src="https://img.shields.io/badge/Desenvolvedor_Full--Stack_Jr.-white?style=flat&color=383838" alt="Subtítulo Principal" />
   <img src="https://img.shields.io/badge/Mente_Curiosa-fuchsia?style=flat&color=101010" alt="Mindset" />
+  <img src="https://img.shields.io/badge/Desenvolvimento_Constante-cyan?style=flat&color=101010" alt="Evolução" />
 </div>
 
 ## Sobre Mim
