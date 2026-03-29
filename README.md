@@ -1,5 +1,11 @@
 ## Hi there 👋
+<div>
+  <a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryan-fullstack)](https://github.com/anuraghazra/github-readme-stats)"
+  </a>
+</div>
 
+**[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)**
 <!--
 **bryan-fullstack/bryan-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
