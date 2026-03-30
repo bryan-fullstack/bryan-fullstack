@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Olá! Sou o Bryan, um desenvolvedor apaixonado por construir soluções de software eficientes. Com uma base sólida construída no backend corporativo (especialmente com **Oracle DB**, **PL/SQL** e **APEX**), estou em transição para o desenvolvimento moderno.
+Olá! Sou o Bryan, um desenvolvedor apaixonado por construir soluções de software eficientes. Com uma base construída no backend corporativo (especialmente com **Oracle DB**, **PL/SQL** e **APEX**), estou em transição para o desenvolvimento moderno.
 
 Atualmente, foco meus aprendizados no ecossistema **React, Next.js, TypeScript e Supabase**, sempre valorizando o versionamento claro com **Git**. Sou guiado pela curiosidade e pelo aprendizado contínuo, focado em evoluir a cada deploy.
 
